@@ -1,0 +1,17 @@
+{
+  "name": "goldbear-get",
+  "version": "1.0.0",
+  "description": "Fetch JSON data from remote URLs or local files with validation and retry support.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "ts-jest": "^29.3.0",
+    "typescript": "^5.8.0"
+  },
+  "license": "MIT"
+}
